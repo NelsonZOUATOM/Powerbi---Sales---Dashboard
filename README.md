@@ -1,2 +1,2 @@
-# Powerbi---Sales---Dashboard
+# PowerBi---Sales---Dashboard
 Interactive Power BI dashboard analyzing sales and cancelled orders
