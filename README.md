@@ -10,10 +10,10 @@
 
 ## 🖼️ Dashboard Preview
 
-### Sales Overview
-![Sales Tracking](images/Sales_Tracking.png)
+### Sales Tracking
+![Sales Tracking]([images/Sales_Tracking.png](https://github.com/NelsonZOUATOM/Powerbi---Sales---Dashboard/blob/main/Images/Sales%20Tracking.png))
 
-### Cancelled Orders Analysis
+### Cancelled Orders 
 ![Cancelled Orders](images/Cancelled_Orders.png)
 
 ---
