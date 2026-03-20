@@ -1,7 +1,9 @@
 # 📊 Sales Performance Dashboard — Power BI
 
-> Interactive dashboard built to track sales activity, 
-> identify cancellation patterns, and support 
+> Interactive dashboard built to track sales activity,
+
+> identify cancellation patterns, and support
+
 > data-driven decision-making.
 
 ---
@@ -9,18 +11,16 @@
 ## 🖼️ Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](images/sales_overview.png)
+![Sales Tracking](images/Sales_Tracking.png)
 
 ### Cancelled Orders Analysis
-![Cancelled Orders](images/cancelled_orders.png)
+![Cancelled Orders](images/Cancelled_Orders.png)
 
 ---
 
 ## 🎯 Project Objective
 
-Analyze sales and cancellation data to uncover trends 
-by product category, region, and time period — and 
-turn raw data into actionable business insights.
+Analyze sales and cancellation data to uncover trends by product category, region, and time period — and turn raw data into actionable business insights.
 
 ---
 
@@ -44,10 +44,8 @@ turn raw data into actionable business insights.
 ## 📈 Key Insights
 
 - ❌ Q3 records the highest cancellation rate
-- 📱 Smartphones & laptops: top sellers but also 
-  most cancelled
-- 🌍 Regional disparities significantly impact 
-  overall performance
+- 📱 Smartphones & laptops: top sellers but also most cancelled
+- 🌍 Regional disparities significantly impact overall performance
 
 ---
 
