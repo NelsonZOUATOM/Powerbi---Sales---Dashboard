@@ -11,7 +11,7 @@
 ## 🖼️ Dashboard Preview
 
 ### Sales Tracking
-[(Images/Cancelled_Orders.png)](https://github.com/NelsonZOUATOM/Powerbi---Sales---Dashboard/blob/main/Images/Sales%20Tracking.png)
+[(Images/Sales_Tracking.png)](https://github.com/NelsonZOUATOM/Powerbi---Sales---Dashboard/blob/main/Images/Sales%20Tracking.png)
 
 ### Cancelled Orders 
 [(Images/Cancelled_Orders.png)](https://github.com/NelsonZOUATOM/Powerbi---Sales---Dashboard/blob/main/Images/Cancelled%20Orders.png)
