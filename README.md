@@ -60,3 +60,23 @@ Analyze sales and cancellation data to uncover trends by product category, regio
 ---
 
 ## 📁 Repository Structure
+
+📦 Powerbi---Sales---Dashboard
+ ┣ 📂 Report
+ ┃ ┗ 📄 Sales Performance Dashboard.pbix
+ ┣ 📂 Images
+ ┃ ┣ 🖼️ sales_orders.png
+ ┃ ┗ 🖼️ cancelled_orders.png
+ ┗ 📄 README.md
+
+ ---
+
+## 👤 Author
+
+**Nelson ZOUATOM**  
+📎 [LinkedIn](https://www.linkedin.com/in/nelson-arafat-zouatom-tchaptchet-961155348/)
+
+---
+
+> 💡 *Built as part of a hands-on Power BI workshop 
+> covering advanced analytics and dashboard design.*
