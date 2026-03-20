@@ -11,10 +11,10 @@
 ## 🖼️ Dashboard Preview
 
 ### Sales Tracking
-![Sales Tracking]Images/Sales Tracking.png
+![Sales Tracking](Images/Salles_Orders.png)
 
 ### Cancelled Orders 
-![Cancelled Orders](images/Cancelled_Orders.png)
+![Cancelled Orders](Images/Cancelled_Orders.png)
 
 ---
 
