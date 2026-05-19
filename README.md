@@ -78,5 +78,4 @@ Analyze sales and cancellation data to uncover trends by product category, regio
 
 ---
 
-> 💡 *Built as part of a hands-on Power BI workshop 
-> covering advanced analytics and dashboard design.*
+> 💡 *Built as a personal project to develop advanced Power BI skills applied to real business data.*
